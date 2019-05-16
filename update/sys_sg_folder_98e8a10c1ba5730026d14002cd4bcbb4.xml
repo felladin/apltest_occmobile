@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_folder">
+    <sys_sg_folder action="INSERT_OR_UPDATE">
+        <application display_value="Operations">18e8a10c1ba5730026d14002cd4bcbb3</application>
+        <name/>
+        <order>1</order>
+        <sys_class_name>sys_sg_folder</sys_class_name>
+        <sys_created_by>admin.anve</sys_created_by>
+        <sys_created_on>2019-05-16 11:59:42</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>98e8a10c1ba5730026d14002cd4bcbb4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="OCC" source="x_aab_occ_mobile">0a4861081ba5730026d14002cd4bcb3a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="OCC">0a4861081ba5730026d14002cd4bcb3a</sys_scope>
+        <sys_update_name>sys_sg_folder_98e8a10c1ba5730026d14002cd4bcbb4</sys_update_name>
+        <sys_updated_by>admin.anve</sys_updated_by>
+        <sys_updated_on>2019-05-16 11:59:42</sys_updated_on>
+    </sys_sg_folder>
+</record_update>

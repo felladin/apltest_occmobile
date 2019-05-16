@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_related_lists_screen">
+    <sys_sg_related_lists_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description/>
+        <fetch_type>background</fetch_type>
+        <hidden>false</hidden>
+        <icon/>
+        <name>Related List</name>
+        <order>30</order>
+        <parent>3f0c2d8c1ba5730026d14002cd4bcb42</parent>
+        <parent_table>sys_sg_map_screen</parent_table>
+        <roles_override/>
+        <show_count>true</show_count>
+        <sys_class_name>sys_sg_related_lists_screen</sys_class_name>
+        <sys_created_by>admin.anve</sys_created_by>
+        <sys_created_on/>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>041ce58c1ba5730026d14002cd4bcbbc</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Related List</sys_name>
+        <sys_package display_value="OCC" source="x_aab_occ_mobile">0a4861081ba5730026d14002cd4bcb3a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="OCC">0a4861081ba5730026d14002cd4bcb3a</sys_scope>
+        <sys_update_name>sys_sg_related_lists_screen_041ce58c1ba5730026d14002cd4bcbbc</sys_update_name>
+        <sys_updated_by>admin.anve</sys_updated_by>
+        <sys_updated_on>2019-05-16 12:14:43</sys_updated_on>
+        <table>incident</table>
+    </sys_sg_related_lists_screen>
+</record_update>
